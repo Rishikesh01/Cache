@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c1bdd5a-2ed1-4d3b-a0ec-43d20b5ee331" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cache.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/cache.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/cache_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/lru.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    <list default="true" id="8c1bdd5a-2ed1-4d3b-a0ec-43d20b5ee331" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/cache.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/cache.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/cache_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/cache_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/lru.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/lru.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,12 +79,24 @@
       <option name="presentableId" value="Default" />
       <updated>1677677290602</updated>
       <workItem from="1677677291641" duration="15273000" />
-      <workItem from="1677768700950" duration="2651000" />
+      <workItem from="1677768700950" duration="4452000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1677771475218</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677771475218</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
